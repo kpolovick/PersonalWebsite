@@ -1,0 +1,54 @@
+body{
+    background-color: lightgray;
+}
+#name{
+    text-align: center;
+    color: darkcyan;
+}
+#school {
+    text-align: center;
+    color: lightseagreen
+}
+#myDiv {
+    height: 120px;
+    width: 500px;
+    color: lightgrey;
+    background-color: darkcyan;
+    border: 5px solid white;
+    padding: 20px;
+    margin: auto;   
+}
+#aboutMe {
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+    text-decoration: underline;
+}
+#pic{
+    margin: auto;
+    width: 200px;
+}
+img{
+    width: 100%
+}
+#involve {
+    color:darkcyan;
+}
+#links {
+    color: darkcyan;
+}
+#list1 {
+    color: lightseagreen;
+}
+#list2{
+    color: lightseagreen;
+}
+#contact{
+    color:darkcyan;
+}
+#alert{
+    color:darkcyan;
+}
+#alert2{
+    color:darkcyan;
+}
